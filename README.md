@@ -1,4 +1,4 @@
-### Hi! I'm Pedro Barbosa 🙍‍
+### Hi! I'm Pedro Barbosa
 
 ##
 I'm a Fullstack Web Developer for almost 2 years, actually working with Laravel and Livewire, feel free to ask me anything on my email: pedrohugovm@gmail.com
