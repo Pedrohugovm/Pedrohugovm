@@ -1,4 +1,4 @@
-### Hi! I'm Pedro Barbosa
+### Hi! I'm Pedro Barbosa 👋
 
 ##
 I'm a Fullstack Web Developer for almost 2 years, actually working with Laravel and Livewire, feel free to ask me anything on my email: pedrohugovm@gmail.com
@@ -16,8 +16,9 @@ I'm a Fullstack Web Developer for almost 2 years, actually working with Laravel 
   <img align="center" alt="pedro-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="pedro-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
   <img align="center" alt="pedro-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="pedro-selenium" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/>
 </div>
   
   ##
-  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohugovm&show_icons=true&locale=en" alt="pedrohugovm" /></p>
   
